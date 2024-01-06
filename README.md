@@ -30,9 +30,10 @@ I am a Higher Technician in Computer Systems and I am a university student in so
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="css3 logo"  />
   <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" width="52" alt="css3 logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png?20220814183839" height="40" width="40" alt="css3 logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" width="52" alt="css3 logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" height="40" width="40" alt="css3 logo"  />
+<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/lightroom.svg" height="40" width="52" alt="css3 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="css3 logo"  />
   <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -52,7 +53,7 @@ I am a Higher Technician in Computer Systems and I am a university student in so
 <p align="center">
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="52" alt="css3 logo"  /></a>
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="45" width="52" alt="css3 logo"  /></a>
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" width="52" alt="css3 logo"  /></a>
+<a href="https://api.whatsapp.com/send?phone=59177425800" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" width="52" alt="whatsapp logo"  /></a>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
