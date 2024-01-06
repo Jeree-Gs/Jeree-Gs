@@ -2,7 +2,7 @@
 
 <h1><p align="center">Hello, I'm Jeremy Garabito! <a href="https://jeree-gs.github.io/portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
   
-<img src="https://i.imgur.com/D5DhfP9.png">
+<img src="https://i.imgur.com/q9BOAIe.png">
 
 I am a Higher Technician in Computer Systems and I am a university student in software engineering interested in front-end development. Additionally, I work as a freelance graphic designer as well as in UX/UI design.
 
