@@ -52,6 +52,7 @@ I am a Higher Technician in Computer Systems and I am a university student in so
   </ul>
 </div>
 
+<!-- Contacts -->
 <p align="center">
 <a href="https://www.linkedin.com/in/jeremy-garabito-soliz-ba942029b" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="52" alt="linkedin logo"  /></a>
 <a href="https://jeree-gs.github.io/portfolio/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="45" width="52" alt="blog logo"  /></a>
