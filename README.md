@@ -56,12 +56,11 @@ I am a Higher Technician in Computer Systems and I am a university student in so
 <p align="center">
 <a href="https://www.linkedin.com/in/jeremy-garabito-soliz-ba942029b" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="52" alt="linkedin logo"  /></a>
 <a href="https://jeree-gs.github.io/portfolio/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="45" width="52" alt="blog logo"  /></a>
-<a href="https://api.whatsapp.com/send?phone=59177425800" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" width="52" alt="whatsapp logo"  /></a>
+<a href="https://api.whatsapp.com/send?phone=59177425800" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" width="52" alt="Whatsapp logo"  /></a>
 
 <!-- Snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
